@@ -1,0 +1,4 @@
+* { margin:0; padding:0; box-sizing:border-box; font-family:'Inter', sans-serif; }
+body { background:#0a0a0a; color:#fff; line-height:1.6; }
+header { padding:80px 20px; text-align:center; background:linear-gradient(135deg,#1a1a1a,#2a2a2a); }
+.card { background:#1a1a1a; padding:20px; border-radius:12px; margin:20px auto; max-width:600px; border:1px solid #333; }
